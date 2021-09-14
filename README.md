@@ -10,3 +10,17 @@ STEPS
 5. Encoding Categorical Data
 6. Splitting dataset into training and test set
 7. Feature scaling
+
+# Linear Regression 
+Linear Regression is a linear approach to modeling the relationship between a scalar response (or dependent variable) and one or more explanatory variables (or independent variables)
+Steps in linear regression are :
+1.	Importing libraries: 
+a.	pandas for data manipulation
+b.	NumPy for mathematical calculations
+c.	matplotlib for graphs
+d.	sklearn which contains essential tools for data mining.     
+2.	Import dataset: importing dataset using pandas. 
+3.	Splitting data into training set and testing set. Testing the model by providing some amount of data as training set .
+4.	Linear regression: We linearly regress the data and fit it in the program using the fit transform command.
+5.	Visual graphs: We plot the data using matplotlib library and its inbuilt functions.
+
